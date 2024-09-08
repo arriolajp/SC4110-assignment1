@@ -1,2 +1,2 @@
-# A first-level heading John Paul Arriola
-## A second-level heading hk7632
+# John Paul Arriola
+## hk7632
